@@ -1,5 +1,3 @@
-# IPL-Data-Analytics-Dashboard
-
 # IPL Data Analytics Dashboard using Python
 
 A sports analytics project built using Python and Google Colab to analyze IPL match data and visualize team and player performance.
